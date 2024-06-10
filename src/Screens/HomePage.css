@@ -1,0 +1,14 @@
+/* styling of home screen  */
+.HomePage {
+    display: flex;
+    
+  }
+.HomePage_body {
+    display: flex;
+    
+    background-color: #f1eeee; /* Light grey background color */
+    padding: 20px;
+    height: fit-content;
+    margin-top: 9vh;
+  }
+  

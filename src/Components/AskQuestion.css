@@ -1,0 +1,42 @@
+/* css applied on the ask question box */
+.QuestionBox{
+    margin-left: 15vw;
+   height: fit-content;
+   box-sizing: border-box;
+   padding: 1vw;
+  text-align: center;
+ display: flex;
+ flex-direction: column;
+    background-color: white;
+  
+}
+/* css applied to question input */
+.QuestionInput{
+    display: flex;
+    width: 35vw;
+    height: 4vh;
+    border-radius: 20vw; 
+    margin: auto;
+}
+
+.QuestionButtons {
+    margin: 3%;
+   display: flex;
+    justify-content: space-evenly;
+   
+   
+    
+}
+.QuestionButtons button{
+background-color:transparent;
+border: none;
+text-align: center;
+
+}
+/* css applied when the user hover on the question buttons  */
+.QuestionButtons button:hover{
+    background-color: rgb(241, 237, 231);
+    font-size: large;
+    border: 2px solid rgb(209, 230, 236);
+    border-radius: 20vw;
+}

@@ -1,0 +1,17 @@
+.NotificationFilter{
+    margin-top: 9vh;
+    
+    
+}
+
+.FilterList{
+    margin: 3vw;
+    display: flex;
+    flex-direction: column;
+    float: left;
+    
+}
+
+.FilterList li{
+    margin: 1.5vw;
+}

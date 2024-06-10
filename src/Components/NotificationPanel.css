@@ -1,0 +1,17 @@
+/* styling of Notificationpanel.jsx page  */
+.NotificationBox{
+    
+    border: 2px solid rgb(218, 216, 216);
+    width: fit-content;
+    margin: auto;
+    margin-top: 19vh;
+    padding: 1.5%;
+    border-radius: 20vw; 
+}
+
+.NotificationBox p{
+    font-weight: bolder;
+}
+.NotificationBox:hover{
+    background-color: rgb(246, 253, 253);
+}
